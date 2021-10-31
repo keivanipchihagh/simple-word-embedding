@@ -1,2 +1,2 @@
 # simple word embedding
- A simple and custome work embedding algorithm
+A simple and custom word embedding algorithm
